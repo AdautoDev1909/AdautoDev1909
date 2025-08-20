@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
+
 
 ###
